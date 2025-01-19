@@ -1,4 +1,4 @@
-# Gerador_de_senha
+# Gerador de Senha
 
 Este é um pequeno projeto utilizado para fins de estudo, com foco em adquirir experiência prática com HTML, CSS e Java Script. 
 Ele foi feito a partir do acompanhamento de uma aula no YouTube, lecionada pelo professor Matheus Fraga do canal "Sujeito programador"
